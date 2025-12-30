@@ -1,0 +1,9 @@
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/embassy_time_queue_utils-69e7893b059e049f.d: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/queue_integrated.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/../README.md
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/libembassy_time_queue_utils-69e7893b059e049f.rlib: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/queue_integrated.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/../README.md
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/libembassy_time_queue_utils-69e7893b059e049f.rmeta: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/queue_integrated.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/../README.md
+
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/lib.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/queue_integrated.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.0/src/../README.md:

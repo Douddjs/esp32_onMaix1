@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp32-48409bafa53b01f4/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

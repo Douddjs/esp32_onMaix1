@@ -1,0 +1,11 @@
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/somni_expr-7ccca213297078b8.d: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/error.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/function.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/value.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/visitor.rs
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/libsomni_expr-7ccca213297078b8.rlib: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/error.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/function.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/value.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/visitor.rs
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/libsomni_expr-7ccca213297078b8.rmeta: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/error.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/function.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/value.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/visitor.rs
+
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/lib.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/error.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/function.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/value.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/somni-expr-0.2.0/src/visitor.rs:

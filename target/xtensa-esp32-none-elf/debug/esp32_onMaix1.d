@@ -1,0 +1,1 @@
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/esp32_onMaix1: /home/douddev/Documents/embedded_rust/esp32_onMaix1/build.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/src/bin/main.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/src/lib.rs

@@ -1,0 +1,14 @@
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/serde-220ebac14db60217.d: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/build/serde-5b4ce6ba6ba75a59/out/private.rs
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/libserde-220ebac14db60217.rlib: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/build/serde-5b4ce6ba6ba75a59/out/private.rs
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/deps/libserde-220ebac14db60217.rmeta: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/build/serde-5b4ce6ba6ba75a59/out/private.rs
+
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/build/serde-5b4ce6ba6ba75a59/out/private.rs:
+
+# env-dep:OUT_DIR=/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/debug/build/serde-5b4ce6ba6ba75a59/out

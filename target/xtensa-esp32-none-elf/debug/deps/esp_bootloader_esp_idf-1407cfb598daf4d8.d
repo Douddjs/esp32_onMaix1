@@ -1,0 +1,21 @@
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/esp_bootloader_esp_idf-1407cfb598daf4d8.d: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/fmt.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/rom.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/partitions.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota_updater.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp-bootloader-esp-idf-166fe94f14d17112/out/esp_bootloader_esp_idf_config_table.md
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/libesp_bootloader_esp_idf-1407cfb598daf4d8.rlib: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/fmt.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/rom.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/partitions.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota_updater.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp-bootloader-esp-idf-166fe94f14d17112/out/esp_bootloader_esp_idf_config_table.md
+
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/deps/libesp_bootloader_esp_idf-1407cfb598daf4d8.rmeta: /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/lib.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/fmt.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/rom.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/partitions.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota.rs /home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota_updater.rs /home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp-bootloader-esp-idf-166fe94f14d17112/out/esp_bootloader_esp_idf_config_table.md
+
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/lib.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/fmt.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/rom.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/partitions.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota.rs:
+/home/douddev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/esp-bootloader-esp-idf-0.4.0/src/ota_updater.rs:
+/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp-bootloader-esp-idf-166fe94f14d17112/out/esp_bootloader_esp_idf_config_table.md:
+
+# env-dep:DEFMT_LOG=info
+# env-dep:ESP_BOOTLOADER_BUILD_DATE=2025-12-28
+# env-dep:ESP_BOOTLOADER_BUILD_TIME=13:57:19
+# env-dep:ESP_BOOTLOADER_ESP_IDF_CONFIG_ESP_IDF_VERSION=0.0.0
+# env-dep:ESP_BOOTLOADER_ESP_IDF_CONFIG_MMU_PAGE_SIZE=64k
+# env-dep:ESP_BOOTLOADER_ESP_IDF_CONFIG_PARTITION_TABLE_OFFSET=32768
+# env-dep:OUT_DIR=/home/douddev/Documents/embedded_rust/esp32_onMaix1/target/xtensa-esp32-none-elf/debug/build/esp-bootloader-esp-idf-166fe94f14d17112/out
