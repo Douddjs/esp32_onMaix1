@@ -6,13 +6,20 @@
     holding buffers for the duration of a data transfer."
 )]
 #![deny(clippy::large_stack_frames)]
-
+#![allow(non_snake_case)]
+#![warn(non_snake_case)]
 use defmt::info;
 use embassy_executor::Spawner;
-use embassy_time::{Duration, Timer};
+// use embassy_time::{Duration, Timer};
 use esp_hal::clock::CpuClock;
 use esp_hal::timer::timg::TimerGroup;
 use panic_rtt_target as _;
+// use esp_backtrace as _;
+use esp_hal::{
+    delay::Delay,
+    gpio::{Level, Output},
+    // peripherals::Peripherals
+};
 
 // This creates a default app-descriptor required by the esp-idf bootloader.
 // For more information see: <https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/app_image_format.html#application-description>
@@ -38,11 +45,21 @@ async fn main(spawner: Spawner) -> ! {
 
     // TODO: Spawn some tasks
     let _ = spawner;
-
+    //let peripherals = Peripherals::take();
+    // let io = Io::new(peripherals.IO_MUX);
+    let mut led = Output::new(peripherals.GPIO2, Level::Low, esp_hal::gpio::OutputConfig::default());
+    
     loop {
-        info!("Hello world!");
-        Timer::after(Duration::from_secs(1)).await;
+        // info!("Hello world!");
+        // probe_hello("msg");
+        led.toggle();
+        Delay::new().delay_millis(300u32);
+        // Timer::after(Duration::from_secs(1)).await;
     }
 
     // for inspiration have a look at the examples at https://github.com/esp-rs/esp-hal/tree/esp-hal-v~1.0/examples
 }
+
+// fn probe_hello(msg: &str) {
+//     info!("Hello {}", msg);
+// }
